@@ -5921,7 +5921,7 @@ msgstr "记录设施"
 
 #: modules/luci-base/ucode/template/sysauth.ut:38
 #: themes/luci-theme-bootstrap/ucode/template/themes/bootstrap/sysauth.ut:36
-msgid "Log in"
+msgid "Login"
 msgstr "登录"
 
 #: modules/luci-base/htdocs/luci-static/resources/luci.js:2620
