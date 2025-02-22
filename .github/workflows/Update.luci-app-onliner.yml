@@ -31,7 +31,7 @@ jobs:
         retain_days: 1
         keep_minimum_runs: 0  
         
-    - name: Update.luci-app-passwall
+    - name: Update.luci-app-onliner
       run: |
 
         rm -rf ./applications/luci-app-onliner
