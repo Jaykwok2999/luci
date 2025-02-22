@@ -38,9 +38,9 @@ jobs:
         
         
          
-        #git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall.git -b main
-        #mv ./istoreos-theme/luci-theme-argon ./themes/
-        #rm -rf ./istoreos-theme
+        git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall.git -b main
+        mv ./istoreos-theme/luci-theme-argon ./themes/
+        rm -rf ./istoreos-theme
         
         
         
