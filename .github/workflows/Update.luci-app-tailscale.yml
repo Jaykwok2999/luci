@@ -38,9 +38,9 @@ jobs:
         
         
          
-        #git clone https://github.com/asvow/luci-app-tailscale.git ./applications/luci-app-tailscale
-        #rm -rf ./.gitignore
-        #rm -rf ./LICENSE
+        git clone --depth=1 https://github.com/Jaykwok2999/istoreos-ipk.git -b main
+        mv ./istoreos-ipk/luci-app-tailscale ./applications/
+        rm -rf ./istoreos-ipk
         
         
         
